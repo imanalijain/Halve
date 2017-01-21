@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I was born in 1995 in New Delhi, India. My passion for Art and design combined with my study in architecture provide me a unique exerience, which have led me to an open vision of the project, which is constantly evolving. I have also the opportunity to collaborate with several architectural firms.
