@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:4000/markup-text-readability/</loc>
+<lastmod>2017-05-22T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/posts.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/tags.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/INTERNSHIP_FOLIO_2017_MANALI%20JAIN.pdf</loc>
+<lastmod>2017-08-19T01:45:45+05:30</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/curriculum%20vitae.pdf</loc>
+<lastmod>2017-08-19T02:46:18+05:30</lastmod>
+</url>
+</urlset>

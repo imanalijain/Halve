@@ -1,7 +1,7 @@
 # Site
 title: Manali Jain
 description: architect & designer
-url: http://www.manalijain.in
+url: https://www.manalijain.in
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -31,7 +31,7 @@ sass:
 # Social Links
 email:             contact@manalijain.in
 #google.plus:        username
-twitter:            _manalijain
+# twitter:            _manalijain
 facebook:           manalijain.mj
 #github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
