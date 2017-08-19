@@ -26,7 +26,8 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-84199733-2
+
 
 # Social Links
 email:             contact@manalijain.in
